@@ -90,4 +90,4 @@ Original App Design Project - README Template
 - Created the flow of the App
 - Created Low fidelity Wireframes
 
-<<img src="wire.png" width=800>
+<img src="wire.png" width=800>
