@@ -31,38 +31,41 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can log in
+* User can view the dashboard with their info
+* User can see their changed projected trajectory/info
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can ask questions and get answers back
+  
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+**Launch Screen**
+* Displays the logo and tagline
+
+**Login Screen**
+* User is prompted to log in or register here
+
+**Dashboard**
+* User can see their info displayed in an easy-to-understand manner at a quick glance
+
+**Simulations**
+* User can change their numbers and see how much changing an action will impact their projections e.g set them back >2 years or 3 years sooner etc
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
-
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
+- [ ] [Log In/ Register screen]
+* [Launch Screen -> Log In Screen]
 * ...
-- [ ] [list second screen here]
-* [list screen navigation here]
+- [ ] [Dashboard screen]
+* [Log In Screen -> Dashbaord/Main screen]
+* ...
+- [ ] [Simulation Screen]
+* [Dashboard Screen -> Simulation Screen]
 * ...
 
 ## Wireframes
