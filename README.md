@@ -67,7 +67,7 @@ Original App Design Project - README Template
 
 ## Wireframes
 
-<img src="wire.png" width=600>
+<img src="wire.png" width=800>
 
 ## Schema 
 
