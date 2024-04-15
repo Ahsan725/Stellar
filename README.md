@@ -82,3 +82,12 @@ Original App Design Project - README Template
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Week 1 Sprint:
+- Worked on Brainstorming ideas
+- Narrowed down ideas and selected a final idea
+- Created a description, and the Product Spec
+- Created the flow of the App
+- Created Low fidelity Wireframes
+
+<<img src="wire.png" width=800>
