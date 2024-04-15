@@ -14,7 +14,7 @@ Original App Design Project - README Template
 
 ### Description
 
-**Description**: FIRE (Financial Independence Retire Early) Fast Fire is a financial planning app aimed at empowering users to make informed decisions about their finances and work towards early retirement. It offers insights and tips on optimizing spending habits, investing wisely, and building passive income streams to accelerate wealth accumulation.
+**Description**: FIRE (Financial Independence Retire Early) Stellar is a financial planning app aimed at empowering users to make informed decisions about their finances and work towards early retirement. It offers insights and tips on optimizing spending habits, investing wisely, and building passive income streams to accelerate wealth accumulation.
 
 ### App Evaluation
 
