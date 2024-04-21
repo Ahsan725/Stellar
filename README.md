@@ -91,3 +91,13 @@ Original App Design Project - README Template
 - Created Low fidelity Wireframes
 
 <img src="wire.png" width=800>
+
+## Week 2 Sprint:
+- [X] Selected Theme and Colors
+- [X] Created a Launch Screen
+- [X] Created a Welcome Screen
+- [X] Created a Sign In Page 
+- [X] Created a Sign Up Page 
+- [X] Set Up Firebase Account
+
+<img src="spr.gif" width=800>
