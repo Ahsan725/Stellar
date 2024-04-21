@@ -100,4 +100,4 @@ Original App Design Project - README Template
 - [X] Created a Sign Up Page 
 - [X] Set Up Firebase Account
 
-<img src="spr.gif" width=800>
+<img src="spr.gif" width="446" height="892">
