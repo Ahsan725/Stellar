@@ -112,3 +112,6 @@ Original App Design Project - README Template
 - [X] Implemented the Business logic
 
 <img src="spr1.gif" width="446" height="892">
+
+[Link to the Pitch Deck](https://drive.google.com/file/d/1haz-nk4viiEd7pkvmBhbOHCRjj2eTcXL/view?usp=drive_link)
+
