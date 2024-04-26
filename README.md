@@ -101,3 +101,14 @@ Original App Design Project - README Template
 - [X] Set Up Firebase Account
 
 <img src="spr.gif" width="446" height="892">
+
+## Final MVP App:
+- [X] Set up Authentication 
+- [X] Set up User Sign up
+- [X] Created the Income Screen Functionality
+- [X] Created the Investment Screen Functionality 
+- [X] Created proper segue between the pages
+- [X] Set Up Navigation using the Navigation Controller
+- [X] Implemented the Business logic
+
+<img src="spr1.gif" width="446" height="892">
